@@ -14,7 +14,7 @@ on:
       - '**/*.spec.js'
       - '**/*.config.js'
   schedule:
-    - cron: '28 21 * * 3'
+    - cron: '28 03 * * 3'
 
 jobs:
   analyze:
